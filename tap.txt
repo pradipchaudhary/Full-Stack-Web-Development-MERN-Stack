@@ -1,0 +1,23 @@
+# Variable 
+- it is a container that holds data 
+- never wrap variable by double quotes 
+- when the variable is called its values are printed.
+
+# Variable Rules
+ - we can use all alphabet
+ - we can use all number
+ - but we can not use any symbol (event space) except _ and $
+ - the first letter of the variable name must not be number
+
+
+# We should be careful
+
+ - variable name must be descriptive
+ - use camel case
+
+
+# String 
+string can be define by using single quotes or double quotes we can note use single quotes inside single quotes same for double quotes.
+
+inside backtic you can use ${}
+${} is used to perform JS Operation (+,-,*,/, variable call, function call)
