@@ -21,3 +21,8 @@ string can be define by using single quotes or double quotes we can note use sin
 
 inside backtic you can use ${}
 ${} is used to perform JS Operation (+,-,*,/, variable call, function call)
+
+
+() => paranthesis
+{} => curly braces or block
+[] => arrary
