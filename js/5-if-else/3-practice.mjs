@@ -37,3 +37,14 @@ if (age >= 18) {
 } else {
   console.log("he can not watch movies!");
 }
+
+// Class 3
+
+let gender = undefined;
+if (gender === "male") {
+  console.log("He is Male!");
+} else if (gender === "female") {
+  console.log("She is female !");
+} else {
+  console.log("they are other ");
+}
